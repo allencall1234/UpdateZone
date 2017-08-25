@@ -9,4 +9,7 @@
 	    <item>3.更新节日活动#</item>
 	    <item>4.没啥好写的了</item>
 	</description>
+	<needfix>true</needfix>
+	<patchurl>https://raw.githubusercontent.com/allencall1234/UpdateZone/master/patch_v0</patchurl>
+	<patchversion>1</patchversion>
 </update>
