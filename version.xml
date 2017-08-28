@@ -10,7 +10,7 @@
 	    <item>4.没啥好写的了</item>
 	</description>
 	<needfix>true</needfix>
-	<patchname>v0.patch</patchname>
+	<patchname>v0.apatch</patchname>
 	<patchurl>https://raw.githubusercontent.com/allencall1234/UpdateZone/master/v0.patch</patchurl>
 	<patchversion>1</patchversion>
 </update>
